@@ -1,5 +1,6 @@
 *.pyc
 dist
+*.npy
 .eggs
 .cache
 .tox
